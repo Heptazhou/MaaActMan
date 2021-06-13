@@ -1,0 +1,59 @@
+html, body, input, textarea, select, button {
+	color: #ffffff;
+	background-color: #000000;
+}
+
+a {
+	color: #66ccff;
+}
+
+blockquote strong {
+	color: #ff164c;
+}
+
+del {
+	color: unset;
+	background-color: #420000;
+}
+
+.highlight {
+	background-color: #000000;
+}
+
+.highlight .nn {
+	color: #cdcdcd;
+}
+
+.highlight .nt {
+	color: #a6ddff;
+}
+
+.highlight .nv {
+	color: #92ffff;
+}
+
+.highlight .s2 {
+	color: #ff1459;
+}
+
+.main-content, .main-content blockquote, .site-footer-credits {
+	color: #ffffff;
+}
+
+.main-content blockquote {
+	border-left-color: #00193b;
+}
+
+.main-content code {
+	color: #000000;
+	background-color: #ffffff;
+}
+
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+	color: #39c5bb;
+}
+
+.main-content pre, .main-content pre code, .main-content pre tt {
+	color: unset;
+	background-color: unset;
+}
